@@ -1,0 +1,10 @@
+export declare const b2_invalidParticleIndex = -1;
+export declare const b2_maxParticleIndex = 2147483647;
+export declare const b2_particleStride = 0.75;
+export declare const b2_minParticleWeight = 1;
+export declare const b2_maxParticlePressure = 0.25;
+export declare const b2_maxParticleForce = 0.5;
+export declare const b2_maxTriadDistance = 2;
+export declare const b2_maxTriadDistanceSquared: number;
+export declare const b2_minParticleSystemBufferCapacity = 256;
+export declare const b2_barrierCollisionTime = 2.5;
