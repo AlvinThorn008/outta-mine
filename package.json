@@ -1,0 +1,19 @@
+{
+  "name": "outta-mine",
+  "version": "1.0.0",
+  "description": "A simple game built on an ECS architecture with Mozilla's ECSY and Pixi.js. NOTE: Just a test project, nothing big.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvinThorn008/outta-mine.git"
+  },
+  "author": "Alvin Ogwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlvinThorn008/outta-mine/issues"
+  },
+  "homepage": "https://github.com/AlvinThorn008/outta-mine#readme"
+}
