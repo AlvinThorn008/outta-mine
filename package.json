@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/AlvinThorn008/outta-mine/issues"
   },
-  "homepage": "https://github.com/AlvinThorn008/outta-mine#readme"
+  "homepage": "https://github.com/AlvinThorn008/outta-mine#readme",
+  "dependencies": {
+    "ecsy": "^0.4.2",
+    "pixi.js": "^5.3.3"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup": "^2.28.1"
+  }
 }
